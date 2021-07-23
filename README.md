@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB DEVELOPMENT AND SOFTWARE DEVELOPMENT 
 - 🌱 I’m currently learning WEB DEVELOPMENT, JAVASCRIPT AND JAVA OOP
 - 💞️ I’m looking to collaborate on WEBSITES 
-- 📫 How to reach me -- gmail - makeyurwebsite@gmail.com
+- 📫 How to reach me  Gmail -- bijayghosh.email@gmail.com
 
 <!---
 BIJAYRANCHO/BIJAYRANCHO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
